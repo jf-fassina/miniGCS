@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<analyzerinfo>
+  <includes>
+    <filename>/home/fassina/Code/POO_I/miniGCS/src/cli/Comando.hpp</filename>
+    <filename>/home/fassina/Code/POO_I/miniGCS/src/modelo/Historico.hpp</filename>
+    <filename>/home/fassina/Code/POO_I/miniGCS/src/modelo/Veiculo.hpp</filename>
+    <filename>/home/fassina/Code/POO_I/miniGCS/src/visual/Painel.hpp</filename>
+  </includes>
+  <hash>3370662747416191116</hash>
+</analyzerinfo>

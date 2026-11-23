@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<analyzerinfo>
+  <FileInfo check="Uninitialized variables">
+    <unsafe-usage my-id="/home/fassina/Code/POO_I/miniGCS/src/modelo/Veiculo.cpp:46:15" my-argnr="1" my-argname="fluxo" file="/home/fassina/Code/POO_I/miniGCS/src/modelo/Veiculo.cpp" line="47" col="10" value="0"/>
+    <unsafe-usage my-id="/home/fassina/Code/POO_I/miniGCS/src/modelo/Veiculo.cpp:46:15" my-argnr="2" my-argname="veiculo" file="/home/fassina/Code/POO_I/miniGCS/src/modelo/Veiculo.cpp" line="47" col="19" value="0"/>
+  </FileInfo>
+  <hash>7561789565287544270</hash>
+</analyzerinfo>

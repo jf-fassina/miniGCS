@@ -1,0 +1,3 @@
+/home/fassina/Code/POO_I/miniGCS/build/CMakeFiles/mini_gcs.dir
+/home/fassina/Code/POO_I/miniGCS/build/CMakeFiles/edit_cache.dir
+/home/fassina/Code/POO_I/miniGCS/build/CMakeFiles/rebuild_cache.dir

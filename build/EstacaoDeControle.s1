@@ -1,0 +1,14 @@
+ErroDeComando
+uso call:[nome] noreturn:[nome]
+vazia call:[empty] noreturn:[empty]
+ErroDeVeiculo
+NaoImplementado
+nome
+Painel
+titulo
+veiculo
+historico
+historico
+comandos
+encerrar
+rodando

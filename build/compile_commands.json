@@ -1,0 +1,80 @@
+[
+{
+  "directory": "/home/fassina/Code/POO_I/miniGCS/build",
+  "command": "/usr/bin/c++ -DMAVSDK_SHARED -I/home/fassina/Code/POO_I/miniGCS/src -isystem /home/fassina/.local/include -isystem /home/fassina/.local/include/mavsdk -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles/mini_gcs.dir/src/main.cpp.o -c /home/fassina/Code/POO_I/miniGCS/src/main.cpp",
+  "file": "/home/fassina/Code/POO_I/miniGCS/src/main.cpp",
+  "output": "CMakeFiles/mini_gcs.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/fassina/Code/POO_I/miniGCS/build",
+  "command": "/usr/bin/c++ -DMAVSDK_SHARED -I/home/fassina/Code/POO_I/miniGCS/src -isystem /home/fassina/.local/include -isystem /home/fassina/.local/include/mavsdk -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles/mini_gcs.dir/src/EstacaoDeControle.cpp.o -c /home/fassina/Code/POO_I/miniGCS/src/EstacaoDeControle.cpp",
+  "file": "/home/fassina/Code/POO_I/miniGCS/src/EstacaoDeControle.cpp",
+  "output": "CMakeFiles/mini_gcs.dir/src/EstacaoDeControle.cpp.o"
+},
+{
+  "directory": "/home/fassina/Code/POO_I/miniGCS/build",
+  "command": "/usr/bin/c++ -DMAVSDK_SHARED -I/home/fassina/Code/POO_I/miniGCS/src -isystem /home/fassina/.local/include -isystem /home/fassina/.local/include/mavsdk -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles/mini_gcs.dir/src/modelo/Telemetria.cpp.o -c /home/fassina/Code/POO_I/miniGCS/src/modelo/Telemetria.cpp",
+  "file": "/home/fassina/Code/POO_I/miniGCS/src/modelo/Telemetria.cpp",
+  "output": "CMakeFiles/mini_gcs.dir/src/modelo/Telemetria.cpp.o"
+},
+{
+  "directory": "/home/fassina/Code/POO_I/miniGCS/build",
+  "command": "/usr/bin/c++ -DMAVSDK_SHARED -I/home/fassina/Code/POO_I/miniGCS/src -isystem /home/fassina/.local/include -isystem /home/fassina/.local/include/mavsdk -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles/mini_gcs.dir/src/modelo/Veiculo.cpp.o -c /home/fassina/Code/POO_I/miniGCS/src/modelo/Veiculo.cpp",
+  "file": "/home/fassina/Code/POO_I/miniGCS/src/modelo/Veiculo.cpp",
+  "output": "CMakeFiles/mini_gcs.dir/src/modelo/Veiculo.cpp.o"
+},
+{
+  "directory": "/home/fassina/Code/POO_I/miniGCS/build",
+  "command": "/usr/bin/c++ -DMAVSDK_SHARED -I/home/fassina/Code/POO_I/miniGCS/src -isystem /home/fassina/.local/include -isystem /home/fassina/.local/include/mavsdk -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles/mini_gcs.dir/src/modelo/Drone.cpp.o -c /home/fassina/Code/POO_I/miniGCS/src/modelo/Drone.cpp",
+  "file": "/home/fassina/Code/POO_I/miniGCS/src/modelo/Drone.cpp",
+  "output": "CMakeFiles/mini_gcs.dir/src/modelo/Drone.cpp.o"
+},
+{
+  "directory": "/home/fassina/Code/POO_I/miniGCS/build",
+  "command": "/usr/bin/c++ -DMAVSDK_SHARED -I/home/fassina/Code/POO_I/miniGCS/src -isystem /home/fassina/.local/include -isystem /home/fassina/.local/include/mavsdk -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles/mini_gcs.dir/src/modelo/Historico.cpp.o -c /home/fassina/Code/POO_I/miniGCS/src/modelo/Historico.cpp",
+  "file": "/home/fassina/Code/POO_I/miniGCS/src/modelo/Historico.cpp",
+  "output": "CMakeFiles/mini_gcs.dir/src/modelo/Historico.cpp.o"
+},
+{
+  "directory": "/home/fassina/Code/POO_I/miniGCS/build",
+  "command": "/usr/bin/c++ -DMAVSDK_SHARED -I/home/fassina/Code/POO_I/miniGCS/src -isystem /home/fassina/.local/include -isystem /home/fassina/.local/include/mavsdk -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles/mini_gcs.dir/src/modelo/Alarmes.cpp.o -c /home/fassina/Code/POO_I/miniGCS/src/modelo/Alarmes.cpp",
+  "file": "/home/fassina/Code/POO_I/miniGCS/src/modelo/Alarmes.cpp",
+  "output": "CMakeFiles/mini_gcs.dir/src/modelo/Alarmes.cpp.o"
+},
+{
+  "directory": "/home/fassina/Code/POO_I/miniGCS/build",
+  "command": "/usr/bin/c++ -DMAVSDK_SHARED -I/home/fassina/Code/POO_I/miniGCS/src -isystem /home/fassina/.local/include -isystem /home/fassina/.local/include/mavsdk -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles/mini_gcs.dir/src/cli/Comando.cpp.o -c /home/fassina/Code/POO_I/miniGCS/src/cli/Comando.cpp",
+  "file": "/home/fassina/Code/POO_I/miniGCS/src/cli/Comando.cpp",
+  "output": "CMakeFiles/mini_gcs.dir/src/cli/Comando.cpp.o"
+},
+{
+  "directory": "/home/fassina/Code/POO_I/miniGCS/build",
+  "command": "/usr/bin/c++ -DMAVSDK_SHARED -I/home/fassina/Code/POO_I/miniGCS/src -isystem /home/fassina/.local/include -isystem /home/fassina/.local/include/mavsdk -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles/mini_gcs.dir/src/cli/ComandosPadrao.cpp.o -c /home/fassina/Code/POO_I/miniGCS/src/cli/ComandosPadrao.cpp",
+  "file": "/home/fassina/Code/POO_I/miniGCS/src/cli/ComandosPadrao.cpp",
+  "output": "CMakeFiles/mini_gcs.dir/src/cli/ComandosPadrao.cpp.o"
+},
+{
+  "directory": "/home/fassina/Code/POO_I/miniGCS/build",
+  "command": "/usr/bin/c++ -DMAVSDK_SHARED -I/home/fassina/Code/POO_I/miniGCS/src -isystem /home/fassina/.local/include -isystem /home/fassina/.local/include/mavsdk -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles/mini_gcs.dir/src/cli/Console.cpp.o -c /home/fassina/Code/POO_I/miniGCS/src/cli/Console.cpp",
+  "file": "/home/fassina/Code/POO_I/miniGCS/src/cli/Console.cpp",
+  "output": "CMakeFiles/mini_gcs.dir/src/cli/Console.cpp.o"
+},
+{
+  "directory": "/home/fassina/Code/POO_I/miniGCS/build",
+  "command": "/usr/bin/c++ -DMAVSDK_SHARED -I/home/fassina/Code/POO_I/miniGCS/src -isystem /home/fassina/.local/include -isystem /home/fassina/.local/include/mavsdk -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles/mini_gcs.dir/src/visual/Painel.cpp.o -c /home/fassina/Code/POO_I/miniGCS/src/visual/Painel.cpp",
+  "file": "/home/fassina/Code/POO_I/miniGCS/src/visual/Painel.cpp",
+  "output": "CMakeFiles/mini_gcs.dir/src/visual/Painel.cpp.o"
+},
+{
+  "directory": "/home/fassina/Code/POO_I/miniGCS/build",
+  "command": "/usr/bin/c++ -DMAVSDK_SHARED -I/home/fassina/Code/POO_I/miniGCS/src -isystem /home/fassina/.local/include -isystem /home/fassina/.local/include/mavsdk -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles/mini_gcs.dir/src/visual/GraficoTempo.cpp.o -c /home/fassina/Code/POO_I/miniGCS/src/visual/GraficoTempo.cpp",
+  "file": "/home/fassina/Code/POO_I/miniGCS/src/visual/GraficoTempo.cpp",
+  "output": "CMakeFiles/mini_gcs.dir/src/visual/GraficoTempo.cpp.o"
+},
+{
+  "directory": "/home/fassina/Code/POO_I/miniGCS/build",
+  "command": "/usr/bin/c++ -DMAVSDK_SHARED -I/home/fassina/Code/POO_I/miniGCS/src -isystem /home/fassina/.local/include -isystem /home/fassina/.local/include/mavsdk -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles/mini_gcs.dir/src/visual/HorizonteArtificial.cpp.o -c /home/fassina/Code/POO_I/miniGCS/src/visual/HorizonteArtificial.cpp",
+  "file": "/home/fassina/Code/POO_I/miniGCS/src/visual/HorizonteArtificial.cpp",
+  "output": "CMakeFiles/mini_gcs.dir/src/visual/HorizonteArtificial.cpp.o"
+}
+]

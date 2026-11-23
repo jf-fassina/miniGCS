@@ -1,0 +1,5 @@
+para_maiusculas call:[begin,end,toupper,transform]
+para_texto call:[str] noreturn:[str]
+acao_sucesso call:[ErroDeVeiculo,para_texto] noreturn:[ErroDeVeiculo]
+normalizar_endereco call:[find,substr]
+Impl

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<analyzerinfo>
+  <FileInfo check="Uninitialized variables">
+    <unsafe-usage my-id="/home/fassina/Code/POO_I/miniGCS/src/cli/ComandosPadrao.cpp:27:8" my-argnr="1" my-argname="estacao" file="/home/fassina/Code/POO_I/miniGCS/src/cli/ComandosPadrao.cpp" line="30" col="35" value="0"/>
+    <unsafe-usage my-id="/home/fassina/Code/POO_I/miniGCS/src/cli/ComandosPadrao.cpp:43:8" my-argnr="1" my-argname="estacao" file="/home/fassina/Code/POO_I/miniGCS/src/cli/ComandosPadrao.cpp" line="45" col="18" value="0"/>
+    <unsafe-usage my-id="/home/fassina/Code/POO_I/miniGCS/src/cli/ComandosPadrao.cpp:59:8" my-argnr="2" my-argname="argumentos" file="/home/fassina/Code/POO_I/miniGCS/src/cli/ComandosPadrao.cpp" line="61" col="9" value="0"/>
+    <unsafe-usage my-id="/home/fassina/Code/POO_I/miniGCS/src/cli/ComandosPadrao.cpp:77:8" my-argnr="2" my-argname="argumentos" file="/home/fassina/Code/POO_I/miniGCS/src/cli/ComandosPadrao.cpp" line="79" col="9" value="0"/>
+    <unsafe-usage my-id="/home/fassina/Code/POO_I/miniGCS/src/cli/ComandosPadrao.cpp:98:8" my-argnr="1" my-argname="estacao" file="/home/fassina/Code/POO_I/miniGCS/src/cli/ComandosPadrao.cpp" line="101" col="5" value="0"/>
+    <unsafe-usage my-id="/home/fassina/Code/POO_I/miniGCS/src/cli/ComandosPadrao.cpp:113:8" my-argnr="2" my-argname="args" file="/home/fassina/Code/POO_I/miniGCS/src/cli/ComandosPadrao.cpp" line="118" col="9" value="0"/>
+    <unsafe-usage my-id="/home/fassina/Code/POO_I/miniGCS/src/cli/ComandosPadrao.cpp:140:8" my-argnr="2" my-argname="argumentos" file="/home/fassina/Code/POO_I/miniGCS/src/cli/ComandosPadrao.cpp" line="142" col="10" value="0"/>
+    <unsafe-usage my-id="/home/fassina/Code/POO_I/miniGCS/src/cli/ComandosPadrao.cpp:154:8" my-argnr="2" my-argname="argumentos" file="/home/fassina/Code/POO_I/miniGCS/src/cli/ComandosPadrao.cpp" line="156" col="10" value="0"/>
+    <unsafe-usage my-id="/home/fassina/Code/POO_I/miniGCS/src/cli/ComandosPadrao.cpp:168:8" my-argnr="2" my-argname="argumentos" file="/home/fassina/Code/POO_I/miniGCS/src/cli/ComandosPadrao.cpp" line="170" col="10" value="0"/>
+    <unsafe-usage my-id="/home/fassina/Code/POO_I/miniGCS/src/cli/ComandosPadrao.cpp:184:8" my-argnr="2" my-argname="argumentos" file="/home/fassina/Code/POO_I/miniGCS/src/cli/ComandosPadrao.cpp" line="186" col="10" value="0"/>
+    <unsafe-usage my-id="/home/fassina/Code/POO_I/miniGCS/src/cli/ComandosPadrao.cpp:202:8" my-argnr="2" my-argname="argumentos" file="/home/fassina/Code/POO_I/miniGCS/src/cli/ComandosPadrao.cpp" line="204" col="9" value="0"/>
+    <unsafe-usage my-id="/home/fassina/Code/POO_I/miniGCS/src/cli/ComandosPadrao.cpp:240:8" my-argnr="1" my-argname="estacao" file="/home/fassina/Code/POO_I/miniGCS/src/cli/ComandosPadrao.cpp" line="242" col="5" value="0"/>
+    <unsafe-usage my-id="/home/fassina/Code/POO_I/miniGCS/src/cli/ComandosPadrao.cpp:252:8" my-argnr="2" my-argname="argumentos" file="/home/fassina/Code/POO_I/miniGCS/src/cli/ComandosPadrao.cpp" line="254" col="9" value="0"/>
+    <unsafe-usage my-id="/home/fassina/Code/POO_I/miniGCS/src/cli/ComandosPadrao.cpp:270:8" my-argnr="2" my-argname="argumentos" file="/home/fassina/Code/POO_I/miniGCS/src/cli/ComandosPadrao.cpp" line="272" col="10" value="0"/>
+  </FileInfo>
+  <hash>1671137313722282686</hash>
+</analyzerinfo>

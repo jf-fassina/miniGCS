@@ -1,0 +1,19 @@
+Start testing: Nov 18 01:20 -03
+----------------------------------------------------------
+1/1 Testing: testes
+1/1 Test: testes
+Command: "/home/fassina/Code/POO_I/miniGCS/build/testes"
+Directory: /home/fassina/Code/POO_I/miniGCS/build
+"testes" start time: Nov 18 01:20 -03
+Output:
+----------------------------------------------------------
+18/18 verificações passaram
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testes" end time: Nov 18 01:20 -03
+"testes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 18 01:20 -03

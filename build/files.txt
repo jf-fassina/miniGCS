@@ -1,0 +1,1 @@
+Drone.a1:::/home/fassina/Code/POO_I/miniGCS/src/modelo/Drone.cpp

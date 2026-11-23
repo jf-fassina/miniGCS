@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<analyzerinfo>
+        <error id="unusedStructMember" severity="style" msg="class member &apos;RegistroDeComandos::comandos_&apos; is never used." verbose="class member &apos;RegistroDeComandos::comandos_&apos; is never used." cwe="563" hash="15670658320431135487" file0="/home/fassina/Code/POO_I/miniGCS/src/cli/Comando.hpp">
+            <location file="/home/fassina/Code/POO_I/miniGCS/src/cli/Comando.hpp" line="59" column="51"/>
+            <symbol>RegistroDeComandos::comandos_</symbol>
+        </error>
+  <hash>15514278670328961725</hash>
+</analyzerinfo>

@@ -1,0 +1,16 @@
+ErroDeComando
+uso call:[nome] noreturn:[nome]
+vazia call:[empty] noreturn:[empty]
+ErroDeVeiculo
+NaoImplementado
+nome
+Painel
+titulo
+veiculo
+historico
+comandos
+encerrar
+rodando
+endereco
+mostrar_uso
+main call:[argumentos,comandos_padrao,estacao,executar,mostrar_uso,move,size,what] noreturn:[executar]

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<analyzerinfo>
+  <FileInfo check="Bounds checking">
+    <pointer-arith>
+    <unsafe-usage my-id="/home/fassina/Code/POO_I/miniGCS/src/main.cpp:29:5" my-argnr="2" my-argname="argv" file="/home/fassina/Code/POO_I/miniGCS/src/main.cpp" line="30" col="45" value="1"/>
+    </pointer-arith>
+  </FileInfo>
+  <FileInfo check="Uninitialized variables">
+    <unsafe-usage my-id="/home/fassina/Code/POO_I/miniGCS/src/main.cpp:19:6" my-argnr="1" my-argname="programa" file="/home/fassina/Code/POO_I/miniGCS/src/main.cpp" line="20" col="27" value="0"/>
+  </FileInfo>
+  <includes>
+    <filename>/home/fassina/Code/POO_I/miniGCS/src/EstacaoDeControle.hpp</filename>
+    <filename>/home/fassina/Code/POO_I/miniGCS/src/cli/Comando.hpp</filename>
+    <filename>/home/fassina/Code/POO_I/miniGCS/src/cli/ComandosPadrao.hpp</filename>
+    <filename>/home/fassina/Code/POO_I/miniGCS/src/modelo/Drone.hpp</filename>
+    <filename>/home/fassina/Code/POO_I/miniGCS/src/modelo/Historico.hpp</filename>
+    <filename>/home/fassina/Code/POO_I/miniGCS/src/modelo/Veiculo.hpp</filename>
+    <filename>/home/fassina/Code/POO_I/miniGCS/src/visual/Painel.hpp</filename>
+  </includes>
+  <hash>12357703466715771605</hash>
+</analyzerinfo>

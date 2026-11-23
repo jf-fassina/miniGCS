@@ -1,0 +1,48 @@
+nome
+ajuda
+executar call:[comandos,linha_de_ajuda,todos]
+nome
+ajuda
+executar call:[estado,veiculo,verificar_alarmes]
+nome
+uso
+ajuda
+executar call:[ErroDeComando,alterar_modo_de_voo,front,size,uso,veiculo] noreturn:[ErroDeComando]
+nome
+uso
+ajuda call:[nomes_dos_campos] noreturn:[nomes_dos_campos]
+executar call:[ErroDeComando,campos_disponiveis,end,exibir_painel,find,front,nomes_dos_campos,size,uso] noreturn:[ErroDeComando,exibir_painel]
+nome
+ajuda
+executar call:[exibir_painel] noreturn:[exibir_painel]
+nome
+uso
+ajuda
+executar call:[ErroDeComando,armar,decolar,size,stod,uso,veiculo] noreturn:[ErroDeComando,stod]
+nome
+ajuda
+executar call:[ErroDeComando,armar,empty,uso,veiculo] noreturn:[ErroDeComando]
+nome
+ajuda
+executar call:[ErroDeComando,desarmar,empty,uso,veiculo] noreturn:[ErroDeComando]
+nome
+ajuda
+executar call:[ErroDeComando,empty,pousar,uso,veiculo] noreturn:[ErroDeComando]
+nome
+ajuda
+executar call:[ErroDeComando,empty,retornar_para_casa,uso,veiculo] noreturn:[ErroDeComando]
+nome
+uso
+ajuda
+executar call:[ErroDeComando,estado,ir_para,size,stod,uso,veiculo] noreturn:[ErroDeComando,stod]
+nome
+ajuda
+executar call:[encerrar] noreturn:[encerrar]
+nome
+uso
+ajuda
+executar call:[ErroDeComando,exportar_csv,historico,size,tamanho,uso] noreturn:[ErroDeComando]
+nome
+ajuda
+executar call:[ErroDeComando,empty,historico,limpar,uso] noreturn:[ErroDeComando]
+comandos_padrao call:[registrar]
